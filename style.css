@@ -1,0 +1,19 @@
+body {
+    background-color: moccasin;
+    text-align: center;
+}
+h1 {
+    color: peru;
+    font-family: 'Acme';
+    font-size: 36pt;
+}
+h2 {
+    color: peru;
+    font-family: 'Acme';
+    font-size: 24pt;
+}
+p {
+    color: black;
+    font-family: 'Roboto';
+    font-size: 14pt;
+}
